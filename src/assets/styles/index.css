@@ -63,6 +63,7 @@ body {
   position: relative;
   cursor: pointer;
   box-sizing: border-box;
+  text-decoration: none;
 }
 
 .page-icon,
