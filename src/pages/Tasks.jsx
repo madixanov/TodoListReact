@@ -1,5 +1,9 @@
+import TaskInputForm from "./components/TaskContainerHeader"
+
 export default function Page() {
     return (
-        <h1>Tasks Page</h1>
+        <div className="task-page-container">
+            <TaskInputForm />
+        </div>
     )
 }
